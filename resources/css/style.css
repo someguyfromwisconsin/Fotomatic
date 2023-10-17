@@ -131,6 +131,13 @@ header .mobile {
 #landing-image {
   position: relative;
   z-index: 1;
+
+}
+
+#landing-image img {
+  width: 100%;
+  height: auto;
+  display: block;
 }
 
 #sign-up-cta {
