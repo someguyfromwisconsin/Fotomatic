@@ -131,12 +131,14 @@ header .mobile {
 #landing-image {
   position: relative;
   z-index: 1;
-
+  width: 100%;
+  max-width: 100%;
+  overflow: hidden;
 }
 
 #landing-image img {
-  width: 100%;
-  height: auto;
+  width: auto;
+  height: 100%;
   display: block;
 }
 
