@@ -26,11 +26,12 @@ html {
 
 .image-container img {
   display: block;
+  max-width: 100%;
 }
 
 @media only screen and (max-width: 760px) {
   .main-content {
-    top: 2.5625rem;
+    top: 2.5625rem
   }
 }
 
