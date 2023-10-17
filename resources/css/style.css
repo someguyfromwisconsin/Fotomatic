@@ -199,9 +199,9 @@ header .mobile {
     justify-content: center;
     height: 28rem;
   }
-
+  
   #sign-up-cta {
-    position: relative;
+    position: flex;
     width: 100%;
     height: 100%;
     background-color: transparent;
